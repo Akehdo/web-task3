@@ -1,4 +1,4 @@
-/* Заголовок с ID */
+
 #page-title,
 #form-title {
   text-align: center;
@@ -6,7 +6,6 @@
   margin-top: 20px;
 }
 
-/* Таблица */
 table {
   width: 80%;
   margin: 20px auto;
@@ -83,3 +82,4 @@ tr:nth-child(odd) {
 .feedback-form button:hover {
   background: rgb(4, 21, 175)
 }
+
